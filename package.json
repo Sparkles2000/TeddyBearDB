@@ -1,0 +1,24 @@
+{
+  "name": "teddybeardb",
+  "version": "1.0.0",
+  "description": "This is my Teddy db!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sparkles2000/TeddyBearDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sparkles2000/TeddyBearDB/issues"
+  },
+  "homepage": "https://github.com/Sparkles2000/TeddyBearDB#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
